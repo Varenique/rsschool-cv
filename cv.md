@@ -1,4 +1,4 @@
-#  ** Varvara Minkina **    
+#   Varvara Minkina     
 Location: Minsk, Belarus  
 Mobile phone: +375 33 63-66-280  
 Email: <minkina.vj@gmail.com>  
@@ -6,6 +6,7 @@ Date of birth: 31 July 2001
 [GitHub account](https://github.com/Varenique)  
 
 ## Characteristics and Aims:  
+
 It's very important to constantly develop and gain new knowledge,  
 because this is the only way to achieve success. Since I'm a  
 Junior Developer, it's important for me to get experience from  
