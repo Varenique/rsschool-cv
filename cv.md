@@ -29,10 +29,11 @@ Faculty of Computer Systems
 Second year, Higher education  
 *from 09.2018  till present*
 
-## Language Skills:  
-|	        |Speaking	      |Understanding	|Writing      |
-|---------|---------------|---------------|------------ |
-|English	|intermediate	  |intermediate	  |intermediate |
-|Russian	|native	      	|native	      	|native       |
+## Language Skills:
 
-*Thanks for looking!* :smiley:
+|	        |Speaking	      |Understanding	|Writing      |  
+|---------|---------------|---------------|------------ |  
+|English	|intermediate	  |intermediate	  |intermediate |  
+|Russian	|native	      	|native	      	|native       |  
+
+*Thanks for looking!*  
