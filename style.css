@@ -1,0 +1,18 @@
+* {
+  max-width: 1024px;
+	box-sizing: border-box;
+  font-family: "Tahoma", "Helvetica", sans-serif;
+
+}
+
+.main-info {
+	height: 100%;
+	margin: 0 auto;
+	color: black;
+}
+
+.logo-area {
+	width: 300px;
+	height: 300px;
+	display: block;
+}
